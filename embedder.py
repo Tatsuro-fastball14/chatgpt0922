@@ -60,3 +60,5 @@ if __name__ == "__main__":
     embedder.save(texts, "sample_data.json")
     aaaa
     aaaaa
+    aaaa
+    aaaa
