@@ -58,4 +58,6 @@ if __name__ == "__main__":
 
     embedder = OpenAIEmbedder(api_key)
     embedder.save(texts, "sample_data.json")
-  
+  ああああああ
+  あああ
+  あああ
